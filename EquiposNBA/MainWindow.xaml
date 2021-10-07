@@ -52,7 +52,7 @@
                     </LinearGradientBrush>
                 </StackPanel.Background>
                 <WrapPanel HorizontalAlignment="Center">
-                    <TextBlock Text="Los Ángeles Lakers" FontWeight="Bold" FontSize="30" TextWrapping="Wrap" Foreground="White"/>
+                    <TextBlock Text="Miami Heat" FontWeight="Bold" FontSize="30" TextWrapping="Wrap" Foreground="White"/>
                 </WrapPanel>
 
 
